@@ -26,3 +26,26 @@ It provides a simple menu-driven interface with two main operations:
 
 ```bash
 chmod +x xml_parser.sh
+```
+
+2. Run the script:
+
+```bash
+./xml_parser.sh
+```
+
+3. Choose an option from the menu:
+
+```
+XML - Parser Script
+1: Citire element
+2: Scriere element
+Alegeti o optiune (1/2):
+```
+
+---
+
+## Technologies Used
+
+- Bash scripting
+- `grep`, `sed`, and basic Linux CLI tools
